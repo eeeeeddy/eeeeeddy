@@ -2,7 +2,8 @@
 
 <div align=center>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeeeeddy&show_icons=true&theme=radical)
+![eeeeeddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeeeeddy&show_icons=true&theme=radical)
+[![eeeeeddy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeeeddy&custom_title=My&nbsp;Language&hide=jupyter%20notebook&layout=compact&theme=radical&show_icons=true)](https://github.com/eeeeeddy/github-readme-stats)
 
 
 <!--

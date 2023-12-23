@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '00 15 * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
@@ -12,6 +12,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LOCALE: "ko" #한국
           SHOW_LINES_OF_CODE: "True" # or "False"
           SHOW_PROFILE_VIEWS: "True" # or "False"

@@ -83,16 +83,16 @@ Sunday                   169 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-BB_Frontend              8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -108,7 +108,7 @@ EJS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/02/2024 15:03:39 UTC
+ Last Updated on 16/02/2024 15:02:24 UTC
 <!--END_SECTION:waka-->
 
 

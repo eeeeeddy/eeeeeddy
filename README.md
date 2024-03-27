@@ -99,16 +99,16 @@ No Activity Tracked This Week
 
 ```text
 Java                     5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Python                   5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Jupyter Notebook         5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-EJS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
 
 
- Last Updated on 26/03/2024 15:02:41 UTC
+ Last Updated on 27/03/2024 15:01:52 UTC
 <!--END_SECTION:waka-->
 
 

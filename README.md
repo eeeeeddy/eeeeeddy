@@ -30,60 +30,43 @@ fun_fact:  "I'm a Night 🦉 — 커밋의 40%가 저녁 시간대"
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 <table>
   <tr>
-    <td valign="top" width="50%">
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Backend**
-
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
-**Database & Search**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-
-**DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-**Collaboration**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</td>
+    <td align="right" width="150"><b>&nbsp;Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,python,java&theme=dark" height="42" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>&nbsp;Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,vue,d3,html,css,bootstrap,nodejs&theme=dark" height="42" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>&nbsp;Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=spring,fastapi&theme=dark" height="42" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>&nbsp;Database&nbsp;&amp;&nbsp;Search</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,elasticsearch&theme=dark" height="42" align="center" />
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" height="26" />
+      <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" height="26" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>&nbsp;DevOps&nbsp;&amp;&nbsp;Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,aws,netlify,ubuntu&theme=dark" height="42" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>&nbsp;Collaboration</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,notion,postman&theme=dark" height="42" align="center" />
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" height="26" />
+    </td>
   </tr>
 </table>
+
+</div>
 
 <br/>
 

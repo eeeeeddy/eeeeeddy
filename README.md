@@ -1,56 +1,146 @@
-## Hi I'm Eddy
+<!-- ▽ Header Banner ▽ -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there%2C%20I'm%20Eddy%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Data%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18" />
+
+<a href="https://github.com/eeeeeddy">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC+%EC%8B%9C%EA%B0%81%EC%A0%81%EC%9C%BC%EB%A1%9C+%ED%92%80%EC%96%B4%EB%82%B4%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;Turning+data+into+insight+%26+visualization;Full-Stack+%7C+FastAPI+%7C+Elasticsearch+%7C+D3.js" alt="Typing SVG" />
+</a>
+
+</div>
+
 <br/>
 
+## 🧑‍💻 About Me
 
-<!--### Hi there 👋-->
+```yaml
+name:      "Eddy Lee"
+role:      "Full-Stack Developer & Data Enthusiast"
+location:  "Seoul, South Korea 🇰🇷"
+focus:     ["데이터 시각화", "검색 서비스", "백엔드 & 데이터 파이프라인"]
+currently: "논문 시각화 검색 서비스 EGG 개발/운영"
+fun_fact:  "I'm a Night 🦉 — 커밋의 40%가 저녁 시간대"
+```
 
-## Skill set
+- 🔭 데이터를 **검색하고 시각화**하는 서비스에 관심이 많습니다.
+- 🌱 백엔드(Spring Boot / FastAPI)와 데이터 엔지니어링을 함께 파고드는 중입니다.
+- 🤝 프론트엔드부터 데이터 수집·처리까지 **전 영역을 오가며** 협업하는 걸 좋아합니다.
 
-### Language
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+<br/>
 
-### FE
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![Html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Css3](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![BootStrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=D3.js&logoColor=white)
+## 🛠️ Tech Stack
 
-### BE
-![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-### DB
-![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Backend**
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+**Database & Search**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 
-### Data
-![ElasticSearch](https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
+**DevOps & Cloud**
 
-### DevOps
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AmazonEC2](https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### Co-work Tools
-![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
+**Collaboration**
 
-### Etc
-![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<br>
+</td>
+  </tr>
+</table>
 
-![eeeeeddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeeeeddy&show_icons=true&theme=radical)
-[![eeeeeddy's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeeeddy&custom_title=My&nbsp;Language&hide=jupyter%20notebook&layout=compact&theme=radical&show_icons=true)](https://github.com/eeeeeddy/github-readme-stats)
+<br/>
 
+## 🚀 Featured Project
+
+<div align="center">
+
+### 🥚 EGG — 논문 시각화 검색 서비스
+
+<em>Elasticsearch 기반 논문 검색 + D3.js 시각화를 결합한 풀스택 프로젝트</em>
+
+<br/>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/eeeeeddy/EGG_Frontend"><b>🎨 Frontend</b></a><br/><sub>React · D3.js</sub></td>
+    <td align="center"><a href="https://github.com/eeeeeddy/EGG_Backend"><b>⚙️ Backend</b></a><br/><sub>Java · Spring</sub></td>
+    <td align="center"><a href="https://github.com/eeeeeddy/EGG_FastAPI"><b>🔌 FastAPI</b></a><br/><sub>Python</sub></td>
+    <td align="center"><a href="https://github.com/eeeeeddy/EGG_Data"><b>📊 Data</b></a><br/><sub>Python</sub></td>
+    <td align="center"><a href="https://github.com/eeeeeddy/EGG_Docker"><b>🐳 Docker</b></a><br/><sub>Infra</sub></td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eeeeeddy&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeeeeddy&custom_title=Most%20Used%20Languages&hide=jupyter%20notebook&layout=compact&theme=radical&hide_border=true" />
+
+<br/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eeeeeddy&theme=radical&hide_border=true" />
+
+<br/>
+<br/>
+
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=eeeeeddy&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+</div>
+
+<br/>
+
+## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C959%20hrs%2042%20mins-blue?style=flat)
@@ -124,19 +214,28 @@ Shell                    1 repo              █░░░░░░░░░░�
  Last Updated on 01/07/2026 17:03:54 UTC
 <!--END_SECTION:waka-->
 
+<br/>
 
+## 📫 Connect with Me
 
-<!--
-**eeeeeddy/eeeeeddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<a href="https://github.com/eeeeeddy">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<!-- 원하시면 아래 배지의 링크(#)를 실제 주소로 바꿔주세요 -->
+<a href="#">
+  <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=eeeeeddy&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
+</div>

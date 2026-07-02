@@ -65,8 +65,8 @@ fun_fact:  "I'm a Night 🦉 — 커밋의 40%가 저녁 시간대"
     <td>
       <img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" alt="MySQL" height="42" />
       <img src="https://skillicons.dev/icons?i=elasticsearch&theme=dark" title="Elasticsearch" alt="Elasticsearch" height="42" />
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" title="Oracle" alt="Oracle" height="26" />
-      <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" title="Kibana" alt="Kibana" height="26" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" height="38" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-plain.svg" title="Kibana" alt="Kibana" height="38" />
     </td>
   </tr>
   <tr>
@@ -85,7 +85,7 @@ fun_fact:  "I'm a Night 🦉 — 커밋의 40%가 저녁 시간대"
       <img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" alt="GitHub" height="42" />
       <img src="https://skillicons.dev/icons?i=notion&theme=dark" title="Notion" alt="Notion" height="42" />
       <img src="https://skillicons.dev/icons?i=postman&theme=dark" title="Postman" alt="Postman" height="42" />
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" title="Slack" alt="Slack" height="26" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" title="Slack" alt="Slack" height="38" />
     </td>
   </tr>
 </table>

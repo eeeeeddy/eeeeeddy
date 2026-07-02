@@ -1,7 +1,7 @@
 <!-- ▽ Header Banner ▽ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:8b3ff0,100:a855f7&height=200&section=header&text=Hi%20there%2C%20I%27m%20Eddy%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:8b3ff0,100:a855f7&height=200&section=header&text=Hi%20there%2C%20I%27m%20Eddy%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20and%20ML%20Enthusiast&descAlignY=58&descSize=18" />
 
 <a href="https://github.com/eeeeeddy">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC+%EC%8B%9C%EA%B0%81%EC%A0%81%EC%9C%BC%EB%A1%9C+%ED%92%80%EC%96%B4%EB%82%B4%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;Turning+data+into+insight+%26+visualization;Full-Stack+%7C+FastAPI+%7C+Elasticsearch+%7C+D3.js" alt="Typing SVG" />

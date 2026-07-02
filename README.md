@@ -124,17 +124,17 @@ fun_fact:  "I'm a Night 🦉 — 커밋의 40%가 저녁 시간대"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eeeeeddy&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeeeeddy&custom_title=Most%20Used%20Languages&hide=jupyter%20notebook&layout=compact&theme=radical&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eeeeeddy&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eeeeeddy&custom_title=Most%20Used%20Languages&hide=jupyter%20notebook&layout=compact&theme=radical&hide_border=true" />
 
 <br/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eeeeeddy&theme=radical&hide_border=true" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=eeeeeddy&theme=radical&hide_border=true" />
 
 <br/>
 <br/>
 
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=eeeeeddy&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=eeeeeddy&theme=react-dark&bg_color=1a1b27&color=a855f7&line=a855f7&point=ffffff&hide_border=true&area=true" />
 
 </div>
 

@@ -35,33 +35,57 @@ fun_fact:  "I'm a Night 🦉 — 커밋의 40%가 저녁 시간대"
 <table>
   <tr>
     <td align="right" width="150"><b>&nbsp;Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,python,java&theme=dark" height="42" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" height="42" />
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" alt="Python" height="42" />
+      <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" height="42" />
+    </td>
   </tr>
   <tr>
     <td align="right"><b>&nbsp;Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,vue,d3,html,css,bootstrap,nodejs&theme=dark" height="42" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React" height="42" />
+      <img src="https://skillicons.dev/icons?i=vue&theme=dark" title="Vue.js" alt="Vue.js" height="42" />
+      <img src="https://skillicons.dev/icons?i=d3&theme=dark" title="D3.js" alt="D3.js" height="42" />
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" alt="HTML5" height="42" />
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS3" alt="CSS3" height="42" />
+      <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" title="Bootstrap" alt="Bootstrap" height="42" />
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="Node.js" alt="Node.js" height="42" />
+    </td>
   </tr>
   <tr>
     <td align="right"><b>&nbsp;Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=spring,fastapi&theme=dark" height="42" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=spring&theme=dark" title="Spring / Spring Boot" alt="Spring" height="42" />
+      <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" title="FastAPI" alt="FastAPI" height="42" />
+    </td>
   </tr>
   <tr>
     <td align="right"><b>&nbsp;Database&nbsp;&amp;&nbsp;Search</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mysql,elasticsearch&theme=dark" height="42" align="center" />
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" height="26" />
-      <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" height="26" />
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" alt="MySQL" height="42" />
+      <img src="https://skillicons.dev/icons?i=elasticsearch&theme=dark" title="Elasticsearch" alt="Elasticsearch" height="42" />
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" title="Oracle" alt="Oracle" height="26" />
+      <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" title="Kibana" alt="Kibana" height="26" />
     </td>
   </tr>
   <tr>
     <td align="right"><b>&nbsp;DevOps&nbsp;&amp;&nbsp;Cloud</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,aws,netlify,ubuntu&theme=dark" height="42" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" height="42" />
+      <img src="https://skillicons.dev/icons?i=aws&theme=dark" title="Amazon Web Services (EC2)" alt="AWS" height="42" />
+      <img src="https://skillicons.dev/icons?i=netlify&theme=dark" title="Netlify" alt="Netlify" height="42" />
+      <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" title="Ubuntu" alt="Ubuntu" height="42" />
+    </td>
   </tr>
   <tr>
     <td align="right"><b>&nbsp;Collaboration</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,notion,postman&theme=dark" height="42" align="center" />
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" height="26" />
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" height="42" />
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" alt="GitHub" height="42" />
+      <img src="https://skillicons.dev/icons?i=notion&theme=dark" title="Notion" alt="Notion" height="42" />
+      <img src="https://skillicons.dev/icons?i=postman&theme=dark" title="Postman" alt="Postman" height="42" />
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" title="Slack" alt="Slack" height="26" />
     </td>
   </tr>
 </table>

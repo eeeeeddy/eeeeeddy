@@ -150,8 +150,6 @@ fun_fact:  "I'm a Night 🦉 — 커밋의 40%가 저녁 시간대"
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C034%20hrs%2012%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-783.36%20thousand%20lines%20of%20code-blue?style=flat)
@@ -183,29 +181,27 @@ Sunday                   263 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-CSHTML                   3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-TypeScript               2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Other                    2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-C#                       1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Vue                      1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Vue                      6 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   33.37 % 
+CSHTML                   2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Markdown                 1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+C#                       1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Other                    1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 16 mins       ██████████████░░░░░░░░░░░   56.30 % 
-Visual Studio            4 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   28.08 % 
-VS Code                  2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Claude Code              10 hrs              █████████████░░░░░░░░░░░░   52.96 % 
+VS Code                  5 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   27.14 % 
+Visual Studio            3 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
 
 🐱‍💻 Projects: 
-ProgramSource            6 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   37.17 % 
-Daily-Application        3 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-frontend                 2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-2.HALK_NEW               2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Vendor-Portal-V2         1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+frontend                 7 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   38.19 % 
+ProgramSource            5 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   27.04 % 
+Vendor-Portal-V2         2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+backend                  2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+VendorPortal             1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
 
 💻 Operating System: 
-Windows                  8 hrs 36 mins       █████████████░░░░░░░░░░░░   52.18 % 
-WSL                      4 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.47 % 
-Mac                      3 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-Linux                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+WSL                      12 hrs 33 mins      █████████████████░░░░░░░░   66.38 % 
+Windows                  6 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   33.62 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -221,7 +217,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 16:18:05 UTC
+ Last Updated on 25/07/2026 15:53:31 UTC
 <!--END_SECTION:waka-->
 
 <br/>

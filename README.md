@@ -150,6 +150,8 @@ fun_fact:  "I'm a Night 🦉 — 커밋의 40%가 저녁 시간대"
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C082%20hrs%2018%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-783.36%20thousand%20lines%20of%20code-blue?style=flat)
@@ -217,7 +219,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 15:53:31 UTC
+ Last Updated on 26/07/2026 15:51:58 UTC
 <!--END_SECTION:waka-->
 
 <br/>

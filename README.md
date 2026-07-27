@@ -150,7 +150,9 @@ fun_fact:  "I'm a Night 🦉 — 커밋의 40%가 저녁 시간대"
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C082%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C045%20hrs%2037%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-249%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -206,6 +208,28 @@ WSL                      12 hrs 33 mins      ███████████�
 Windows                  6 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   33.62 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 12 hrs 15 mins (64.84%)
+
+✍️ 1,184 lines written by AI, 299 lines written by hand (79.84% AI-written)
+
+🔤 298,893,748 Input Tokens, 1,298,122 Output Tokens
+
+💵 $1566.37 Estimated AI Cost This Week
+
+🧠 16 AI Sessions, 222 AI Prompts
+
+Opus                     1,518 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 79.84% of written lines came from AI
+📝 Concise Prompter — average 312 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 25.19% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -219,7 +243,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 15:51:58 UTC
+ Last Updated on 27/07/2026 16:52:01 UTC
 <!--END_SECTION:waka-->
 
 <br/>

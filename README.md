@@ -185,49 +185,49 @@ Sunday                   263 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Vue                      8 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   33.43 % 
-Markdown                 3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Other                    2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-XML                      2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Java                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Vue                      6 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   30.73 % 
+Markdown                 3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+XML                      2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Other                    2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Java                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 41 mins      █████████████████░░░░░░░░   68.85 % 
-VS Code                  6 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
-Visual Studio            1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Claude Code              15 hrs 18 mins      ██████████████████░░░░░░░   72.86 % 
+VS Code                  4 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+Visual Studio            53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 
 🐱‍💻 Projects: 
-frontend                 10 hrs 19 mins      ███████████░░░░░░░░░░░░░░   42.60 % 
-backend                  4 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-Vendor-Portal-V2         4 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-ProgramSource            2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-VendorPortal             1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+frontend                 8 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   41.56 % 
+backend                  4 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
+Vendor-Portal-V2         4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+ProgramSource            1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+VendorPortal             51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 
 💻 Operating System: 
-WSL                      20 hrs 28 mins      █████████████████████░░░░   84.43 % 
-Windows                  3 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+WSL                      18 hrs 7 mins       ██████████████████████░░░   86.24 % 
+Windows                  2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 32 mins (80.59%)
+⏱ AI Coding Time: 17 hrs 35 mins (83.77%)
 
-✍️ 1,662 lines written by AI, 305 lines written by hand (84.49% AI-written)
+✍️ 1,408 lines written by AI, 263 lines written by hand (84.26% AI-written)
 
-🔤 441,764,036 Input Tokens, 1,764,992 Output Tokens
+🔤 405,996,391 Input Tokens, 1,541,404 Output Tokens
 
-💵 $2292.56 Estimated AI Cost This Week
+💵 $2108.36 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 322 AI Prompts
+🧠 17 AI Sessions, 271 AI Prompts
 
-Opus                     1,860 lines         █████████████████████████   100.00 % 
+Opus                     1,606 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.49% of written lines came from AI
-📄 Detailed Prompter — average 592 characters per prompt
+🤖 AI-Driven — 84.26% of written lines came from AI
+📄 Detailed Prompter — average 685 characters per prompt
 🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 24.12% of changed lines were hand-edited
+🚀 High AI Trust — 22.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -243,7 +243,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 16:14:20 UTC
+ Last Updated on 30/07/2026 16:19:14 UTC
 <!--END_SECTION:waka-->
 
 <br/>

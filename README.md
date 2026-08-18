@@ -185,50 +185,50 @@ Sunday                   264 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Vue                      8 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   30.22 % 
-C#                       3 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Other                    3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Markdown                 3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-CSHTML                   2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Vue                      6 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   29.06 % 
+C#                       3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Markdown                 2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+CSHTML                   2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Other                    2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 3 mins       ███████████████░░░░░░░░░░   60.00 % 
-Visual Studio            6 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
-VS Code                  4 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Claude Code              13 hrs 33 mins      ██████████████░░░░░░░░░░░   57.44 % 
+Visual Studio            6 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   26.40 % 
+VS Code                  3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
 
 🐱‍💻 Projects: 
-frontend                 12 hrs 39 mins      ███████████░░░░░░░░░░░░░░   44.51 % 
-ProgramSource            8 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   29.57 % 
-backend                  2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Vendor-Portal-V2         2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-VendorPortal             42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+frontend                 9 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   41.28 % 
+ProgramSource            8 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   34.06 % 
+backend                  2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Vendor-Portal-V2         2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+VendorPortal             42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 💻 Operating System: 
-WSL                      18 hrs 24 mins      ████████████████░░░░░░░░░   64.71 % 
-Windows                  10 hrs 2 mins       █████████░░░░░░░░░░░░░░░░   35.29 % 
+WSL                      14 hrs 16 mins      ███████████████░░░░░░░░░░   60.53 % 
+Windows                  9 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   39.47 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 38 mins (76.1%)
+⏱ AI Coding Time: 17 hrs 18 mins (73.34%)
 
-✍️ 3,277 lines written by AI, 1,422 lines written by hand (69.74% AI-written)
+✍️ 3,049 lines written by AI, 1,403 lines written by hand (68.49% AI-written)
 
-🔤 13,058,858 Input Tokens, 1,845,216 Output Tokens
+🔤 10,513,031 Input Tokens, 1,466,449 Output Tokens
 
-💵 $369.91 Estimated AI Cost This Week
+💵 $316.20 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 298 AI Prompts
+🧠 21 AI Sessions, 230 AI Prompts
 
-Opus                     4,491 lines         ███████████████████████░░   91.56 % 
-Fable                    414 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+Opus                     4,256 lines         ███████████████████████░░   91.13 % 
+Fable                    414 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 69.74% of written lines came from AI
-📄 Detailed Prompter — average 647 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 24.71% of changed lines were hand-edited
+🤖 AI-Driven — 68.49% of written lines came from AI
+📄 Detailed Prompter — average 686 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 25.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -244,7 +244,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 15:09:14 UTC
+ Last Updated on 18/08/2026 15:19:28 UTC
 <!--END_SECTION:waka-->
 
 <br/>

@@ -150,9 +150,9 @@ fun_fact:  "I'm a Night 🦉 — 커밋의 40%가 저녁 시간대"
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C107%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C112%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-304%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-309%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -185,51 +185,51 @@ Sunday                   264 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-C#                       4 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
-CSHTML                   3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-Vue                      2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Markdown                 2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Other                    2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Markdown                 3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+C#                       3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+CSHTML                   2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Other                    2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Vue                      2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 55 mins      █████████████░░░░░░░░░░░░   51.28 % 
-Visual Studio            7 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   36.55 % 
-VS Code                  2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Claude Code              12 hrs 11 mins      ███████████████░░░░░░░░░░   60.43 % 
+Visual Studio            5 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   27.85 % 
+VS Code                  2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
 
 🐱‍💻 Projects: 
-ProgramSource            9 hrs 56 mins       ████████████░░░░░░░░░░░░░   46.63 % 
-frontend                 3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-backend                  2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Vendor-Portal-V2         2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-2.HALK_NEW               1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+ProgramSource            7 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   36.88 % 
+frontend                 4 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+Vendor-Portal-V2         3 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+backend                  2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+2.HALK_NEW               1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 
 💻 Operating System: 
-Windows                  12 hrs 42 mins      ███████████████░░░░░░░░░░   59.59 % 
-WSL                      8 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   40.41 % 
+WSL                      10 hrs 57 mins      ██████████████░░░░░░░░░░░   54.31 % 
+Windows                  9 hrs 12 mins       ███████████░░░░░░░░░░░░░░   45.69 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 21 mins (67.4%)
+⏱ AI Coding Time: 14 hrs 56 mins (74.13%)
 
-✍️ 2,241 lines written by AI, 187 lines written by hand (92.3% AI-written)
+✍️ 1,333 lines written by AI, 73 lines written by hand (94.81% AI-written)
 
-🔤 10,568,150 Input Tokens, 918,320 Output Tokens
+🔤 10,046,006 Input Tokens, 1,075,240 Output Tokens
 
-💵 $317.69 Estimated AI Cost This Week
+💵 $364.70 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 205 AI Prompts
+🧠 22 AI Sessions, 217 AI Prompts
 
-Opus                     2,784 lines         █████████████░░░░░░░░░░░░   50.19 % 
-Fable                    2,763 lines         ████████████░░░░░░░░░░░░░   49.81 % 
+Fable                    2,992 lines         █████████████████████░░░░   84.83 % 
+Opus                     535 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.3% of written lines came from AI
-📝 Concise Prompter — average 276 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 5.68% of changed lines were hand-edited
+🤖 AI-Driven — 94.81% of written lines came from AI
+📄 Detailed Prompter — average 500 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 2.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -245,7 +245,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 15:22:16 UTC
+ Last Updated on 21/08/2026 15:21:00 UTC
 <!--END_SECTION:waka-->
 
 <br/>

@@ -185,51 +185,51 @@ Sunday                   264 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    6 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
-C#                       5 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-Markdown                 4 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Vue                      4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Java                     3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Other                    5 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+C#                       4 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+Markdown                 4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Vue                      3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Java                     3 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 13 mins      ██████████████████░░░░░░░   71.00 % 
-Visual Studio            6 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-VS Code                  2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Claude Code              18 hrs              ██████████████████░░░░░░░   72.12 % 
+Visual Studio            4 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+VS Code                  1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
 
 🐱‍💻 Projects: 
-frontend                 7 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
-ProgramSource            7 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
-Vendor-Portal-V2         6 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-backend                  4 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-1.SNKO_NEW               2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+frontend                 6 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+ProgramSource            5 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
+Vendor-Portal-V2         5 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
+backend                  3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+1.SNKO_NEW               2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
 
 💻 Operating System: 
-WSL                      19 hrs 21 mins      ████████████████░░░░░░░░░   64.78 % 
-Windows                  10 hrs 31 mins      █████████░░░░░░░░░░░░░░░░   35.22 % 
+WSL                      16 hrs 26 mins      ████████████████░░░░░░░░░   65.86 % 
+Windows                  8 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   34.14 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 18 mins (84.64%)
+⏱ AI Coding Time: 21 hrs 6 mins (84.53%)
 
-✍️ 4,380 lines written by AI, 83 lines written by hand (98.14% AI-written)
+✍️ 3,862 lines written by AI, 73 lines written by hand (98.14% AI-written)
 
-🔤 16,664,154 Input Tokens, 2,010,015 Output Tokens
+🔤 14,544,108 Input Tokens, 1,754,925 Output Tokens
 
-💵 $678.99 Estimated AI Cost This Week
+💵 $555.09 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 344 AI Prompts
+🧠 22 AI Sessions, 293 AI Prompts
 
-Fable                    2,468 lines         █████████████░░░░░░░░░░░░   52.72 % 
-Opus                     2,213 lines         ████████████░░░░░░░░░░░░░   47.28 % 
+Opus                     2,213 lines         █████████████░░░░░░░░░░░░   53.86 % 
+Fable                    1,896 lines         ████████████░░░░░░░░░░░░░   46.14 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 98.14% of written lines came from AI
-📄 Detailed Prompter — average 556 characters per prompt
+📄 Detailed Prompter — average 641 characters per prompt
 🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 5.28% of changed lines were hand-edited
+🚀 High AI Trust — 5.76% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -245,7 +245,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 00:08:42 UTC
+ Last Updated on 28/08/2026 23:45:07 UTC
 <!--END_SECTION:waka-->
 
 <br/>

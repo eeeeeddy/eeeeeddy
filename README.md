@@ -185,49 +185,49 @@ Sunday                   264 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    7 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   34.51 % 
-Markdown                 5 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
-Vue                      3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Java                     2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-C#                       50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Other                    6 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   35.72 % 
+Markdown                 5 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   28.42 % 
+Vue                      2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Java                     2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+C#                       45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 15 mins      ███████████████████████░░   91.16 % 
-Visual Studio            1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-VS Code                  57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Claude Code              16 hrs 23 mins      ███████████████████████░░   91.37 % 
+Visual Studio            56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+VS Code                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 🐱‍💻 Projects: 
-backend                  7 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   34.46 % 
-Vendor-Portal-V2         6 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-frontend                 5 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-ProgramSource            1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-wsl-commit-watch         27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+backend                  6 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   35.60 % 
+frontend                 4 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   26.57 % 
+Vendor-Portal-V2         4 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+ProgramSource            1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+USER                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 💻 Operating System: 
-WSL                      19 hrs 43 mins      ██████████████████████░░░   88.77 % 
-Windows                  2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+WSL                      15 hrs 29 mins      ██████████████████████░░░   86.41 % 
+Windows                  2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 2 mins (94.73%)
+⏱ AI Coding Time: 16 hrs 49 mins (93.78%)
 
-✍️ 2,356 lines written by AI, 5 lines written by hand (99.79% AI-written)
+✍️ 2,083 lines written by AI, 4 lines written by hand (99.81% AI-written)
 
-🔤 10,808,719 Input Tokens, 2,055,474 Output Tokens
+🔤 10,191,422 Input Tokens, 1,985,676 Output Tokens
 
-💵 $466.58 Estimated AI Cost This Week
+💵 $459.37 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 377 AI Prompts
+🧠 21 AI Sessions, 363 AI Prompts
 
-Opus                     2,420 lines         █████████████████████████   100.00 % 
+Opus                     2,131 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.79% of written lines came from AI
-📄 Detailed Prompter — average 1,487 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 0.49% of changed lines were hand-edited
+🤖 AI-Driven — 99.81% of written lines came from AI
+📚 Verbose Prompter — average 1,575 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🚀 High AI Trust — 0.65% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -243,7 +243,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2026 18:44:23 UTC
+ Last Updated on 25/09/2026 19:00:19 UTC
 <!--END_SECTION:waka-->
 
 <br/>

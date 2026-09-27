@@ -156,26 +156,26 @@ fun_fact:  "I'm a Night 🦉 — 커밋의 40%가 저녁 시간대"
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-965.03%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-966.22%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                144 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-🌆 Daytime                702 commits         ████████░░░░░░░░░░░░░░░░░   33.88 % 
-🌃 Evening                831 commits         ██████████░░░░░░░░░░░░░░░   40.11 % 
-🌙 Night                  395 commits         █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+🌞 Morning                144 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+🌆 Daytime                707 commits         █████████░░░░░░░░░░░░░░░░   34.04 % 
+🌃 Evening                831 commits         ██████████░░░░░░░░░░░░░░░   40.01 % 
+🌙 Night                  395 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   321 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Tuesday                  326 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Wednesday                428 commits         █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-Thursday                 272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Friday                   267 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-Saturday                 194 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-Sunday                   264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Monday                   321 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Tuesday                  326 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Wednesday                428 commits         █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+Thursday                 272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Friday                   267 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Saturday                 194 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Sunday                   269 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
 ```
 
 
@@ -236,14 +236,14 @@ Opus                     2,131 lines         ███████████�
 JavaScript               15 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
 Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 Java                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Jupyter Notebook         5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 ```
 
 
 
 
- Last Updated on 26/09/2026 18:07:45 UTC
+ Last Updated on 27/09/2026 18:42:51 UTC
 <!--END_SECTION:waka-->
 
 <br/>

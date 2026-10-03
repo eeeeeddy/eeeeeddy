@@ -154,7 +154,7 @@ fun_fact:  "I'm a Night 🦉 — 커밋의 40%가 저녁 시간대"
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-437%20hrs%2034%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-968.24%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -243,7 +243,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 19:36:34 UTC
+ Last Updated on 03/10/2026 18:23:21 UTC
 <!--END_SECTION:waka-->
 
 <br/>

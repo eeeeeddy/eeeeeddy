@@ -150,9 +150,9 @@ fun_fact:  "I'm a Night 🦉 — 커밋의 40%가 저녁 시간대"
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C234%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C240%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-450%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-456%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -185,49 +185,49 @@ Sunday                   270 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    6 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   40.24 % 
-Markdown                 2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-C#                       1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-CSHTML                   1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Java                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Other                    7 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   33.04 % 
+Markdown                 4 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+C#                       2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Vue                      2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+CSHTML                   1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 18 mins      ██████████████████░░░░░░░   71.13 % 
-Visual Studio            3 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-VS Code                  1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Claude Code              17 hrs 59 mins      ███████████████████░░░░░░   74.57 % 
+Visual Studio            3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+VS Code                  2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
 
 🐱‍💻 Projects: 
-Vendor-Portal-V2         7 hrs 48 mins       ███████████░░░░░░░░░░░░░░   45.11 % 
-ProgramSource            3 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-frontend                 3 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-backend                  2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-wsl-commit-watch         8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Vendor-Portal-V2         9 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   39.15 % 
+frontend                 5 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+ProgramSource            5 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+backend                  2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+USER                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 
 💻 Operating System: 
-WSL                      13 hrs 24 mins      ███████████████████░░░░░░   77.45 % 
-Windows                  3 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+WSL                      16 hrs 59 mins      ██████████████████░░░░░░░   70.45 % 
+Windows                  7 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   29.55 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 38 mins (73.06%)
+⏱ AI Coding Time: 18 hrs 38 mins (77.24%)
 
-✍️ 627 lines written by AI, 291 lines written by hand (68.3% AI-written)
+✍️ 1,488 lines written by AI, 295 lines written by hand (83.45% AI-written)
 
-🔤 15,091,241 Input Tokens, 1,498,052 Output Tokens
+🔤 18,587,881 Input Tokens, 1,934,656 Output Tokens
 
-💵 $297.81 Estimated AI Cost This Week
+💵 $396.84 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 202 AI Prompts
+🧠 27 AI Sessions, 305 AI Prompts
 
-Opus                     778 lines           █████████████████████████   100.00 % 
+Opus                     1,642 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 68.3% of written lines came from AI
-📄 Detailed Prompter — average 906 characters per prompt
+🤖 AI-Driven — 83.45% of written lines came from AI
+📄 Detailed Prompter — average 679 characters per prompt
 🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 37.56% of changed lines were hand-edited
+🚀 High AI Trust — 22.33% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -243,7 +243,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 19:14:54 UTC
+ Last Updated on 12/10/2026 22:18:03 UTC
 <!--END_SECTION:waka-->
 
 <br/>

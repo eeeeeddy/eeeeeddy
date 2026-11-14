@@ -154,17 +154,22 @@ fun_fact:  "I'm a Night 🦉 — 커밋의 40%가 저녁 시간대"
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eeeeeddy&theme=radical" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eeeeeddy&theme=radical" />
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eeeeeddy&theme=radical" />
 
+<br/>
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eeeeeddy&theme=radical" />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eeeeeddy&theme=radical" />
+
+<br/>
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eeeeeddy&theme=radical" />
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eeeeeddy&theme=radical&utcOffset=9" />
+
+<br/>
 <br/>
 
 <img height="180em" src="https://streak-stats.demolab.com/?user=eeeeeddy&theme=radical&hide_border=true" />
-
-<br/>
-<br/>
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eeeeeddy&theme=radical" />
 
 </div>
 

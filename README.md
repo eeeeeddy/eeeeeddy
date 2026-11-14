@@ -154,27 +154,25 @@ fun_fact:  "I'm a Night 🦉 — 커밋의 40%가 저녁 시간대"
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-578%20hrs%2051%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-968.96%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                155 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-🌆 Daytime                714 commits         ████████░░░░░░░░░░░░░░░░░   33.89 % 
-🌃 Evening                843 commits         ██████████░░░░░░░░░░░░░░░   40.01 % 
-🌙 Night                  395 commits         █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+🌞 Morning                155 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+🌆 Daytime                714 commits         ████████░░░░░░░░░░░░░░░░░   33.87 % 
+🌃 Evening                844 commits         ██████████░░░░░░░░░░░░░░░   40.04 % 
+🌙 Night                  395 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday                   321 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Tuesday                  327 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Wednesday                428 commits         █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Thursday                 273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Friday                   285 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Saturday                 199 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Tuesday                  327 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Wednesday                428 commits         █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+Thursday                 273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Friday                   285 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Saturday                 200 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
 Sunday                   274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
 ```
 
@@ -195,13 +193,6 @@ SQL                      1 hr 13 mins        █░░░░░░░░░░�
 Claude Code              28 hrs 55 mins      ██████████████████████░░░   87.22 % 
 Visual Studio            2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
 VS Code                  1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-
-🐱‍💻 Projects: 
-Vendor-Portal-V2         11 hrs 31 mins      █████████░░░░░░░░░░░░░░░░   34.76 % 
-toad                     6 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-ProgramSource            4 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-backend                  2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-frontend                 2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
 
 💻 Operating System: 
 WSL                      17 hrs 8 mins       █████████████░░░░░░░░░░░░   51.71 % 
@@ -243,7 +234,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2026 12:32:05 UTC
+ Last Updated on 14/11/2026 12:44:47 UTC
 <!--END_SECTION:waka-->
 
 <br/>

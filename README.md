@@ -123,6 +123,28 @@ fun_fact:  "I'm a Night 🦉 — 커밋의 40%가 저녁 시간대"
   </tr>
 </table>
 
+<br/>
+
+### 🎧 BeatBuddy — 음악 공유 SNS
+
+<em>음악 기반 피드 · 플레이리스트 · 실시간 DM을 제공하는 소셜 서비스 프론트엔드</em>
+
+<br/>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white)
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![WebSocket](https://img.shields.io/badge/STOMP_WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/eeeeeddy/BB_Frontend"><b>🎨 Frontend</b></a><br/><sub>React · Recoil</sub></td>
+  </tr>
+</table>
+
 </div>
 
 <br/>

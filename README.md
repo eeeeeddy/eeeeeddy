@@ -66,6 +66,7 @@ fun_fact:  "I'm a Night 🦉 — 커밋의 40%가 저녁 시간대"
       <img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL" alt="MySQL" height="42" />
       <img src="https://skillicons.dev/icons?i=elasticsearch&theme=dark" title="Elasticsearch" alt="Elasticsearch" height="42" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle Database" alt="Oracle Database" height="38" />
+      <img src="https://skillicons.dev/icons?i=supabase&theme=dark" title="Supabase" alt="Supabase" height="42" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-plain.svg" title="Kibana" alt="Kibana" height="38" />
     </td>
   </tr>
@@ -76,6 +77,7 @@ fun_fact:  "I'm a Night 🦉 — 커밋의 40%가 저녁 시간대"
       <img src="https://skillicons.dev/icons?i=aws&theme=dark" title="Amazon Web Services (EC2)" alt="AWS" height="42" />
       <img src="https://skillicons.dev/icons?i=azure&theme=dark" title="Microsoft Azure" alt="Azure" height="42" />
       <img src="https://skillicons.dev/icons?i=netlify&theme=dark" title="Netlify" alt="Netlify" height="42" />
+      <img src="https://skillicons.dev/icons?i=vercel&theme=dark" title="Vercel" alt="Vercel" height="42" />
       <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" title="Ubuntu" alt="Ubuntu" height="42" />
     </td>
   </tr>

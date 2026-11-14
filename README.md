@@ -18,7 +18,6 @@ name:      "Eddy Lee"
 role:      "Full-Stack Developer & Data Enthusiast"
 location:  "Seoul, South Korea 🇰🇷"
 focus:     ["데이터 시각화", "검색 서비스", "백엔드 & 데이터 파이프라인"]
-currently: "논문 시각화 검색 서비스 EGG 개발/운영"
 fun_fact:  "I'm a Night 🦉 — 커밋의 40%가 저녁 시간대"
 ```
 

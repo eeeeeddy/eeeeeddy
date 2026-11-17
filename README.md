@@ -180,9 +180,9 @@ fun_fact:  "I'm a Night 🦉 — 커밋의 40%가 저녁 시간대"
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C346%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C352%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-583%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-588%20hrs%2010%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-969.00%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -213,43 +213,44 @@ Sunday                   274 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 11 hrs 36 mins      █████████░░░░░░░░░░░░░░░░   35.88 % 
-C#                       6 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Other                    4 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-CSHTML                   2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-SQL                      1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Markdown                 11 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   36.52 % 
+Other                    3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+C#                       3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+CSHTML                   3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+SQL                      2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
 
 🔥 Editors: 
-Claude Code              26 hrs 17 mins      ████████████████████░░░░░   81.32 % 
-Visual Studio            4 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-VS Code                  1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Claude Code              23 hrs 36 mins      ███████████████████░░░░░░   77.80 % 
+Visual Studio            4 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+VS Code                  2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
 
 💻 Operating System: 
-Windows                  17 hrs 29 mins      ██████████████░░░░░░░░░░░   54.10 % 
-WSL                      13 hrs 57 mins      ███████████░░░░░░░░░░░░░░   43.14 % 
-Mac                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+WSL                      15 hrs 55 mins      █████████████░░░░░░░░░░░░   52.49 % 
+Windows                  13 hrs 31 mins      ███████████░░░░░░░░░░░░░░   44.57 % 
+Mac                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 4 mins (89.91%)
+⏱ AI Coding Time: 26 hrs 47 mins (88.27%)
 
-✍️ 9,047 lines written by AI, 97 lines written by hand (98.94% AI-written)
+✍️ 9,264 lines written by AI, 117 lines written by hand (98.75% AI-written)
 
-🔤 23,181,477 Input Tokens, 4,583,614 Output Tokens
+🔤 21,773,677 Input Tokens, 3,826,816 Output Tokens
 
-💵 $599.14 Estimated AI Cost This Week
+💵 $511.95 Estimated AI Cost This Week
 
-🧠 47 AI Sessions, 486 AI Prompts
+🧠 49 AI Sessions, 482 AI Prompts
 
-Opus                     10,104 lines        █████████████████████████   100.00 % 
+Opus                     9,983 lines         █████████████████████████   98.97 % 
+Fable                    104 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.94% of written lines came from AI
-📄 Detailed Prompter — average 742 characters per prompt
+🤖 AI-Driven — 98.75% of written lines came from AI
+📄 Detailed Prompter — average 695 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 1.24% of changed lines were hand-edited
+🚀 High AI Trust — 1.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -265,7 +266,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/11/2026 23:34:04 UTC
+ Last Updated on 17/11/2026 22:43:35 UTC
 <!--END_SECTION:waka-->
 
 <br/>

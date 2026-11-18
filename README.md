@@ -180,9 +180,9 @@ fun_fact:  "I'm a Night 🦉 — 커밋의 40%가 저녁 시간대"
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C352%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C357%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-588%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-593%20hrs%202%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-969.00%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -213,44 +213,44 @@ Sunday                   274 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 11 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   36.52 % 
-Other                    3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-C#                       3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-CSHTML                   3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-SQL                      2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Markdown                 11 hrs 4 mins       ██████████░░░░░░░░░░░░░░░   38.13 % 
+SQL                      2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Other                    2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Java                     2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+CSHTML                   2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
 
 🔥 Editors: 
-Claude Code              23 hrs 36 mins      ███████████████████░░░░░░   77.80 % 
-Visual Studio            4 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-VS Code                  2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Claude Code              21 hrs 40 mins      ███████████████████░░░░░░   74.62 % 
+VS Code                  4 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Visual Studio            3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
 
 💻 Operating System: 
-WSL                      15 hrs 55 mins      █████████████░░░░░░░░░░░░   52.49 % 
-Windows                  13 hrs 31 mins      ███████████░░░░░░░░░░░░░░   44.57 % 
-Mac                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+WSL                      19 hrs 16 mins      █████████████████░░░░░░░░   66.33 % 
+Windows                  8 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   30.61 % 
+Mac                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 47 mins (88.27%)
+⏱ AI Coding Time: 25 hrs 30 mins (87.82%)
 
-✍️ 9,264 lines written by AI, 117 lines written by hand (98.75% AI-written)
+✍️ 8,510 lines written by AI, 130 lines written by hand (98.5% AI-written)
 
-🔤 21,773,677 Input Tokens, 3,826,816 Output Tokens
+🔤 18,587,606 Input Tokens, 3,595,603 Output Tokens
 
-💵 $511.95 Estimated AI Cost This Week
+💵 $455.73 Estimated AI Cost This Week
 
-🧠 49 AI Sessions, 482 AI Prompts
+🧠 42 AI Sessions, 463 AI Prompts
 
-Opus                     9,983 lines         █████████████████████████   98.97 % 
-Fable                    104 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Opus                     9,320 lines         █████████████████████████   98.90 % 
+Fable                    104 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.75% of written lines came from AI
-📄 Detailed Prompter — average 695 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 1.41% of changed lines were hand-edited
+🤖 AI-Driven — 98.5% of written lines came from AI
+📄 Detailed Prompter — average 753 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 1.95% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -266,7 +266,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/11/2026 22:43:35 UTC
+ Last Updated on 18/11/2026 22:24:54 UTC
 <!--END_SECTION:waka-->
 
 <br/>

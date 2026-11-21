@@ -213,44 +213,43 @@ Sunday                   274 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 7 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   32.98 % 
-SQL                      2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-CSHTML                   2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Vue                      2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Java                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Markdown                 7 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   32.34 % 
+SQL                      2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+CSHTML                   2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Vue                      2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Java                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 21 mins      █████████████████░░░░░░░░   68.18 % 
-VS Code                  3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Visual Studio            3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Claude Code              15 hrs 28 mins      █████████████████░░░░░░░░   66.96 % 
+VS Code                  3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Visual Studio            3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
 
 💻 Operating System: 
-WSL                      15 hrs 28 mins      ████████████████░░░░░░░░░   64.52 % 
-Windows                  7 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   31.77 % 
-Mac                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+WSL                      15 hrs 28 mins      █████████████████░░░░░░░░   67.01 % 
+Windows                  7 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   32.99 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 49 mins (82.66%)
+⏱ AI Coding Time: 18 hrs 56 mins (81.99%)
 
-✍️ 7,753 lines written by AI, 203 lines written by hand (97.45% AI-written)
+✍️ 7,713 lines written by AI, 203 lines written by hand (97.44% AI-written)
 
-🔤 13,209,091 Input Tokens, 2,711,228 Output Tokens
+🔤 12,077,846 Input Tokens, 2,668,225 Output Tokens
 
-💵 $308.64 Estimated AI Cost This Week
+💵 $294.65 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 338 AI Prompts
+🧠 35 AI Sessions, 324 AI Prompts
 
-Opus                     7,875 lines         █████████████████████████   98.47 % 
+Opus                     7,835 lines         █████████████████████████   98.47 % 
 Fable                    122 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.45% of written lines came from AI
-📄 Detailed Prompter — average 774 characters per prompt
+🤖 AI-Driven — 97.44% of written lines came from AI
+📄 Detailed Prompter — average 805 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 3.24% of changed lines were hand-edited
+🚀 High AI Trust — 3.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -266,7 +265,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/11/2026 22:01:05 UTC
+ Last Updated on 21/11/2026 20:42:19 UTC
 <!--END_SECTION:waka-->
 
 <br/>
